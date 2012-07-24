@@ -65,7 +65,7 @@ nnoremap <C-K> :call PhpDocSingle()<CR>
 vnoremap <C-K> :call PhpDocRange()<CR>
 
 let g:pdv_cfg_Version = '0.05'
-let g:pdv_cfg_Author = 'yuchih <eddie@2be.com.tw>'
+let g:pdv_cfg_Author = 'eddie <eddie@2be.com.tw>'
 let g:pdv_cfg_Copyright = 'Copyright 2011 by eddie <eddie@2be.com.tw>'
 
 if has("autocmd")
